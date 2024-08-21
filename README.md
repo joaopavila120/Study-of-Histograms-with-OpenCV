@@ -11,3 +11,7 @@
 
 – Calculate and display their histograms
 – Perform an equalization using the CDF method (equalizeHist) and another using the CLAHE method on these images
+
+Example:
+![image](https://github.com/user-attachments/assets/0f00f229-4d56-4a5a-b7b9-9f6ee6541036)
+
